@@ -1,6 +1,6 @@
 ### Hi there, I'm Sefa! 👋
 
-I am a 3rd-year **Computer Engineering** student at Osmaniye Korkut Ata University and also studying **Web Design & Coding** at Istanbul University. I am passionate about software development and currently focusing on improving my skills in Python and Database Management.
+I'm a 3rd-year **Computer Engineering** student at Osmaniye Korkut Ata University and also studying **Web Design & Coding** at Istanbul University. I am passionate about software development and currently focusing on improving my skills in Python and Database Management.
 
 ---
 

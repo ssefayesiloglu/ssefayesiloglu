@@ -1,14 +1,14 @@
 ### Hi there, I'm Sefa! 👋
 
-I'm a final-year **Computer Engineering** student at Osmaniye Korkut Ata University[cite: 1] and also studying **Web Design & Coding** at Istanbul University[cite: 1, 3]. I previously completed a Software Engineering Internship at **TÜBİTAK BİLGEM**[cite: 1], where I developed scalable backend systems using C# and ASP.NET Core Web API[cite: 1]. Currently, I am focused on backend architectures, scientific computing with Python, and machine learning-based aerodynamic simulations.
+I'm a final-year **Computer Engineering** student at Osmaniye Korkut Ata University and also studying **Web Design & Coding** at Istanbul University. I previously completed a Software Engineering Internship at **TÜBİTAK BİLGEM**, where I developed scalable backend systems using C# and ASP.NET Core Web API. Currently, I am focused on backend architectures, scientific computing with Python, and machine learning-based aerodynamic simulations.
 
 ---
 
 ### 🚀 What I'm up to:
 - 🔭 Conducting a comparative aerodynamic performance analysis between **NeuralFoil** and **XFoil** on airfoils (such as NACA 0012) using Python.
-- 💻 Building scalable backend services with **C# / ASP.NET Core Web API** following Clean Code and Layered Architecture principles[cite: 1].
+- 💻 Building scalable backend services with **C# / ASP.NET Core Web API** following Clean Code and Layered Architecture principles.
 - 🌱 Advancing my machine learning foundations through Andrew Ng's **Machine Learning Specialization** on Coursera.
-- 🎯 Aiming to contribute to R&D and product-driven software engineering teams[cite: 1].
+- 🎯 Aiming to contribute to R&D and product-driven software engineering teams.
 
 ---
 

@@ -1,26 +1,40 @@
 ### Hi there, I'm Sefa! 👋
 
-I'm a 3rd-year **Computer Engineering** student at Osmaniye University and also studying **Web Design & Coding** at Istanbul University. I am passionate about software development and currently focusing on improving my skills in Python and Database Management.
+I'm a final-year **Computer Engineering** student at Osmaniye Korkut Ata University[cite: 1] and also studying **Web Design & Coding** at Istanbul University[cite: 1, 3]. I previously completed a Software Engineering Internship at **TÜBİTAK BİLGEM**[cite: 1], where I developed scalable backend systems using C# and ASP.NET Core Web API[cite: 1]. Currently, I am focused on backend architectures, scientific computing with Python, and machine learning-based aerodynamic simulations.
 
 ---
 
 ### 🚀 What I'm up to:
-- 🌱 I’m currently learning **Python**, **SQL (Oracle)**, and **Network Basics (Cisco Packet Tracer)**.
-- 🎓 I’m working on my university projects to build a strong foundation.
-- 🎯 My goal is to become a proficient **Backend Developer**.
-
-### 🛠️ Languages & Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- 🔭 Conducting a comparative aerodynamic performance analysis between **NeuralFoil** and **XFoil** on airfoils (such as NACA 0012) using Python.
+- 💻 Building scalable backend services with **C# / ASP.NET Core Web API** following Clean Code and Layered Architecture principles[cite: 1].
+- 🌱 Advancing my machine learning foundations through Andrew Ng's **Machine Learning Specialization** on Coursera.
+- 🎯 Aiming to contribute to R&D and product-driven software engineering teams[cite: 1].
 
 ---
 
-### 📫 Connect with me:
-[<img align="left" alt="Sefa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🛠️ Languages & Tools:
 
-[linkedin]: https://www.linkedin.com/in/sefa-yesiloglu/
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Web:**
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data Science & DevOps:**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefa-yesiloglu)[cite: 1]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadiksefay@gmail.com)[cite: 1]
